@@ -1,4 +1,4 @@
-# alura-docker
+# Curso de docker da alura  : https://cursos.alura.com.br/course/docker-e-docker-compose
 Projeto do curso de Docker 
 
 # comando para subir o projeto : 
